@@ -8,6 +8,6 @@ def hello_t(nam)
   end
 nam
 else 
-  puts "no block"
+  puts "Hey! No block was given!"
 end
 end
