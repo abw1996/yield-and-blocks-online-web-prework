@@ -12,7 +12,7 @@ else
 end
 
 hello_t(nam)
- |name| 
+do |name| 
   if name.start_with?("T")
     puts "Hi, #{name}"
   end
